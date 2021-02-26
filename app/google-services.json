@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "299920064744",
+    "project_id": "c19tracker-dbb81",
+    "storage_bucket": "c19tracker-dbb81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299920064744:android:4cfed06ce7d2b34015c95d",
+        "android_client_info": {
+          "package_name": "com.proyek.c19tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299920064744-k5guhq95hc27gr4r8vrd5n7gvtpnt8ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyek.c19tracker",
+            "certificate_hash": "ec61aef9c15787832d450aa355c144767788ab75"
+          }
+        },
+        {
+          "client_id": "299920064744-dj62eq25n5gejskf55aenftcfbk7bj1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS96eEcxPHiGRMBlaqPqtzpHCs6QClyiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299920064744-dj62eq25n5gejskf55aenftcfbk7bj1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
